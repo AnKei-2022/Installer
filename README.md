@@ -9,3 +9,5 @@ Many probably know that it is possible to convert .py files to .exe, but what if
 # How does it work?
 
 All your files need to be compressed into a ZIP file, then this file is copied and embedded in Python code. When you run the program, a ZIP file is created on your PC and extracted with your files.
+
+# How to download?
