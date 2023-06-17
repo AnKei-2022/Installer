@@ -1,5 +1,3 @@
-![image](1.PNG)
-
 
 # Installer
 A simple installer of the program.
